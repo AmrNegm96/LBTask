@@ -1,0 +1,17 @@
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.AssemblyInfo.cs
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\bin\Debug\net8.0\CategoryProduct.Infrastructure.deps.json
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\bin\Debug\net8.0\CategoryProduct.Infrastructure.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\bin\Debug\net8.0\CategoryProduct.Infrastructure.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\bin\Debug\net8.0\CategoryProduct.Domain.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\bin\Debug\net8.0\CategoryProduct.Domain.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\Category.B6B94A3B.Up2Date
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\refint\CategoryProduct.Infrastructure.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\ref\CategoryProduct.Infrastructure.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\bin\Debug\net8.0\CategoryProduct.Infrastructure.runtimeconfig.json
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Infrastructure\obj\Debug\net8.0\CategoryProduct.Infrastructure.genruntimeconfig.cache

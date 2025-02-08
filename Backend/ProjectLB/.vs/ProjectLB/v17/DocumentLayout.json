@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571C20BA-8A9E-47B5-BCCB-7F4386E78E53}|CategoryProduct.API\\CategoryProduct.API.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C20BA-8A9E-47B5-BCCB-7F4386E78E53}|CategoryProduct.API\\CategoryProduct.API.csproj|solutionrelative:categoryproduct.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\strategies\\discountpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\strategies\\discountpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\services\\productpricingservicestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\services\\productpricingservicestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\strategies\\taxpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\strategies\\taxpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C20BA-8A9E-47B5-BCCB-7F4386E78E53}|CategoryProduct.API\\CategoryProduct.API.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C20BA-8A9E-47B5-BCCB-7F4386E78E53}|CategoryProduct.API\\CategoryProduct.API.csproj|solutionrelative:categoryproduct.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\services\\productpricingservicedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\services\\productpricingservicedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\strategies\\standardpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\strategies\\standardpricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA6F4A-50D3-4A69-A25A-48C76EACA8F3}|CategoryProduct.Domain\\CategoryProduct.Domain.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.domain\\contracts\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA6F4A-50D3-4A69-A25A-48C76EACA8F3}|CategoryProduct.Domain\\CategoryProduct.Domain.csproj|solutionrelative:categoryproduct.domain\\contracts\\ipricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\decorators\\discountdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\decorators\\discountdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.application\\decorators\\taxdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6F6DCE-9BC5-4875-8D4F-873D15128782}|CategoryProduct.Application\\CategoryProduct.Application.csproj|solutionrelative:categoryproduct.application\\decorators\\taxdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA6F4A-50D3-4A69-A25A-48C76EACA8F3}|CategoryProduct.Domain\\CategoryProduct.Domain.csproj|d:\\onedrive - link development\\sample project\\projectlb\\backend\\projectlb\\categoryproduct.domain\\contracts\\iproductpricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA6F4A-50D3-4A69-A25A-48C76EACA8F3}|CategoryProduct.Domain\\CategoryProduct.Domain.csproj|solutionrelative:categoryproduct.domain\\contracts\\iproductpricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CategoryProduct.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAApwIAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:06:38.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductPricingServiceStrategy.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Services\\ProductPricingServiceStrategy.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Services\\ProductPricingServiceStrategy.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Services\\ProductPricingServiceStrategy.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Services\\ProductPricingServiceStrategy.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:04:30.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxPricingStrategy.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Strategies\\TaxPricingStrategy.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Strategies\\TaxPricingStrategy.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Strategies\\TaxPricingStrategy.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Strategies\\TaxPricingStrategy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:02:04.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountPricingStrategy.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Strategies\\DiscountPricingStrategy.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Strategies\\DiscountPricingStrategy.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Strategies\\DiscountPricingStrategy.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Strategies\\DiscountPricingStrategy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:00:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StandardPricingStrategy.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Strategies\\StandardPricingStrategy.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Strategies\\StandardPricingStrategy.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Strategies\\StandardPricingStrategy.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Strategies\\StandardPricingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:59:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPricingStrategy.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Domain\\Contracts\\IPricingStrategy.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Domain\\Contracts\\IPricingStrategy.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Domain\\Contracts\\IPricingStrategy.cs",
+              "RelativeToolTip": "CategoryProduct.Domain\\Contracts\\IPricingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:57:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiscountDecorator.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Decorators\\DiscountDecorator.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Decorators\\DiscountDecorator.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Decorators\\DiscountDecorator.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Decorators\\DiscountDecorator.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:24:20.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaxDecorator.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Decorators\\TaxDecorator.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Decorators\\TaxDecorator.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Decorators\\TaxDecorator.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Decorators\\TaxDecorator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:20:05.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductPricingServiceDecorator.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Services\\ProductPricingServiceDecorator.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Application\\Services\\ProductPricingServiceDecorator.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Application\\Services\\ProductPricingServiceDecorator.cs",
+              "RelativeToolTip": "CategoryProduct.Application\\Services\\ProductPricingServiceDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:18:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductPricingService.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Domain\\Contracts\\IProductPricingService.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.Domain\\Contracts\\IProductPricingService.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.Domain\\Contracts\\IProductPricingService.cs",
+              "RelativeToolTip": "CategoryProduct.Domain\\Contracts\\IProductPricingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T23:17:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.API\\Program.cs",
+              "RelativeDocumentMoniker": "CategoryProduct.API\\Program.cs",
+              "ToolTip": "D:\\OneDrive - Link Development\\Sample project\\ProjectLB\\Backend\\ProjectLB\\CategoryProduct.API\\Program.cs",
+              "RelativeToolTip": "CategoryProduct.API\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAACMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:23:07.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

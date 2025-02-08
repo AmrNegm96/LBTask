@@ -1,0 +1,11 @@
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\CategoryProduct.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\CategoryProduct.Domain.AssemblyInfoInputs.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\CategoryProduct.Domain.AssemblyInfo.cs
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\CategoryProduct.Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\bin\Debug\net8.0\CategoryProduct.Domain.deps.json
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\bin\Debug\net8.0\CategoryProduct.Domain.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\bin\Debug\net8.0\CategoryProduct.Domain.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\CategoryProduct.Domain.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\refint\CategoryProduct.Domain.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\CategoryProduct.Domain.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Domain\obj\Debug\net8.0\ref\CategoryProduct.Domain.dll

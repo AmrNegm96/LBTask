@@ -1,0 +1,15 @@
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.AssemblyInfoInputs.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.AssemblyInfo.cs
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.csproj.AssemblyReference.cache
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\bin\Debug\net8.0\CategoryProduct.Application.deps.json
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\bin\Debug\net8.0\CategoryProduct.Application.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\bin\Debug\net8.0\CategoryProduct.Application.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\bin\Debug\net8.0\CategoryProduct.Domain.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\bin\Debug\net8.0\CategoryProduct.Domain.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\Category.CCA4BEFB.Up2Date
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\refint\CategoryProduct.Application.dll
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\CategoryProduct.Application.pdb
+D:\OneDrive - Link Development\Sample project\ProjectLB\Backend\ProjectLB\CategoryProduct.Application\obj\Debug\net8.0\ref\CategoryProduct.Application.dll

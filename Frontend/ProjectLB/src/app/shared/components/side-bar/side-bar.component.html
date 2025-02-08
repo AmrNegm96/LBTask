@@ -1,0 +1,12 @@
+
+  <div class="position-sticky">
+    <h2 class="p-3">Categories</h2>
+    <ul class="nav flex-column">
+
+      <li *ngFor="let category of categories" class="nav-item">
+        <a class="nav-link active" href="#"
+        (click)="emitCategoryId(category.id)">{{category.name}}</a>
+      </li>
+      
+    </ul>
+  </div>
